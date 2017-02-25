@@ -24,8 +24,8 @@ This is just one talk that I really like, but I have to figure out some way to g
 - [Demand Generation](http://devguild.heavybit.com/demand-generation/) - October 24, 2016
 
 ## CoreOS Fest 2016 Berlin
-__Location__: Berlin, Germany
-__Date__: May 9-10
+__Location__: Berlin, Germany  
+__Date__: May 9-10  
 __Tags__: #devops, #containers
 
 - [YouTube Playlist](https://www.youtube.com/playlist?list=PLlh6TqkU8kg_3FpXLlHMnoVqKZysIzXlK&mkt_tok=eyJpIjoiWVdabFpqWm1NakZtWW1VdyIsInQiOiJDb2VBYmhmaUIxMlBVZWR0U3pvSkZnVWVlZys5XC82UGsyWjRNc1wvaWUxaElGNlNXVG1nK0FWNVBkOUJGcm1QUWczUHJQZUdyWXZHdVE5YzlFZk9jTk9meXNCV1ZWd2FVTFI0TnNlWHVmMmV5cVp5VEh2ZHBwQVRWZ1phWUlWcmlMIn0%3D)
