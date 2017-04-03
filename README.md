@@ -29,3 +29,7 @@ __Date__: May 9-10
 __Tags__: #devops, #containers
 
 - [YouTube Playlist](https://www.youtube.com/playlist?list=PLlh6TqkU8kg_3FpXLlHMnoVqKZysIzXlK&mkt_tok=eyJpIjoiWVdabFpqWm1NakZtWW1VdyIsInQiOiJDb2VBYmhmaUIxMlBVZWR0U3pvSkZnVWVlZys5XC82UGsyWjRNc1wvaWUxaElGNlNXVG1nK0FWNVBkOUJGcm1QUWczUHJQZUdyWXZHdVE5YzlFZk9jTk9meXNCV1ZWd2FVTFI0TnNlWHVmMmV5cVp5VEh2ZHBwQVRWZ1phWUlWcmlMIn0%3D)
+
+## InfoQ
+
+https://www.infoq.com/presentations/ - Talks from multiple conferences including: QCon, APIDays, Agile Tour, and Erlang Factory.
